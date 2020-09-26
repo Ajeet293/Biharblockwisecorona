@@ -1,0 +1,97 @@
+[{
+    "confirmed": "34", 
+    "recovered": "0", 
+    "district": "Sheikhpura", 
+    "color": "", 
+    "D+E": "13", 
+    "link": "district/Sheikhpura/index.html", 
+    "deceased": "0", 
+    "active": "34", 
+    "new_confirmed": "0", 
+    "block": "ARIARI"
+},
+{
+    "confirmed": "7", 
+    "recovered": "0", 
+    "district": "Sheikhpura", 
+    "color": "", 
+    "D+E": "2", 
+    "link": "district/Sheikhpura/index.html", 
+    "deceased": "0", 
+    "active": "7", 
+    "new_confirmed": "0", 
+    "block": "BARBIGHA"
+},
+{
+    "confirmed": "9", 
+    "recovered": "0", 
+    "district": "Sheikhpura", 
+    "color": "", 
+    "D+E": "2", 
+    "link": "district/Sheikhpura/index.html", 
+    "deceased": "0", 
+    "active": "9", 
+    "new_confirmed": "0", 
+    "block": "CHEWARA"
+},
+{
+    "confirmed": "10", 
+    "recovered": "0", 
+    "district": "Sheikhpura", 
+    "color": "", 
+    "D+E": "3", 
+    "link": "district/Sheikhpura/index.html", 
+    "deceased": "0", 
+    "active": "10", 
+    "new_confirmed": "0", 
+    "block": "GHAT KUSUMBA"
+},
+{
+    "confirmed": "47", 
+    "recovered": "0", 
+    "district": "Sheikhpura", 
+    "color": "", 
+    "D+E": "19", 
+    "link": "district/Sheikhpura/index.html", 
+    "deceased": "0", 
+    "active": "47", 
+    "new_confirmed": "1", 
+    "block": "SHEIKHPURA"
+},
+{
+    "confirmed": "10", 
+    "recovered": "0", 
+    "district": "Sheikhpura", 
+    "color": "", 
+    "D+E": "7", 
+    "link": "district/Sheikhpura/index.html", 
+    "deceased": "0", 
+    "active": "10", 
+    "new_confirmed": "0", 
+    "block": "SHEKHOPUR SARAI"
+},
+{
+    "confirmed": "92", 
+    "recovered": "164", 
+    "district": "Sheikhpura", 
+    "color": "", 
+    "D+E": "13", 
+    "link": "district/Sheikhpura/index.html", 
+    "deceased": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "block": "Unknown"
+},
+{
+    "confirmed": "209", 
+    "recovered": "164", 
+    "district": "Sheikhpura", 
+    "color": "orange", 
+    "D+E": "59", 
+    "link": "district/Sheikhpura/index.html", 
+    "deceased": "0", 
+    "active": "45", 
+    "new_confirmed": "1", 
+    "block": "Total"
+}
+]

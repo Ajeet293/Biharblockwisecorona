@@ -1,0 +1,613 @@
+district,block,link,new_confirmed,confirmed,deceased,recovered,active,color,D+E
+Araria,Araria,district/Araria/index.html,0,15,0,0,15,,7
+Araria,Bhargama,district/Araria/index.html,0,3,0,0,3,,2
+Araria,Forbesganj,district/Araria/index.html,0,15,0,0,15,,3
+Araria,Jokihat,district/Araria/index.html,0,10,0,0,10,,2
+Araria,Kursakanta,district/Araria/index.html,0,4,0,0,4,,0
+Araria,Narpatganj,district/Araria/index.html,0,21,0,0,21,,4
+Araria,Palasi,district/Araria/index.html,0,2,0,0,2,,1
+Araria,Raniganj,district/Araria/index.html,0,8,0,0,8,,4
+Araria,Sikti,district/Araria/index.html,0,7,0,0,7,,4
+Araria,Unknown,district/Araria/index.html,0,96,2,127,0,,0
+Araria,Total,district/Araria/index.html,0,181,2,127,52,orange,27
+Arwal,Arwal,district/Arwal/index.html,0,22,0,1,21,,17
+Arwal,Sonbhadra Banshi Surypur,district/Arwal/index.html,0,11,0,0,11,,8
+Arwal,Kaler,district/Arwal/index.html,0,14,0,0,14,,3
+Arwal,Karpi,district/Arwal/index.html,0,15,0,0,15,,6
+Arwal,Kurtha,district/Arwal/index.html,0,8,0,0,8,,4
+Arwal,Unknown,district/Arwal/index.html,0,116,1,116,0,,0
+Arwal,Total,district/Arwal/index.html,0,186,1,117,68,orange,38
+Aurangabad,Aurangabad,district/Aurangabad/index.html,1,49,0,1,48,,20
+Aurangabad,Barun,district/Aurangabad/index.html,0,12,0,0,12,,6
+Aurangabad,Daudnagar,district/Aurangabad/index.html,0,10,0,0,10,,0
+Aurangabad,Deo,district/Aurangabad/index.html,0,7,0,3,4,,4
+Aurangabad,Goh,district/Aurangabad/index.html,0,6,0,0,6,,0
+Aurangabad,Haspura,district/Aurangabad/index.html,0,7,0,0,7,,6
+Aurangabad,Kutumba,district/Aurangabad/index.html,0,8,0,0,8,,0
+Aurangabad,Madanpur,district/Aurangabad/index.html,0,9,0,0,9,,6
+Aurangabad,Nabinagar,district/Aurangabad/index.html,0,11,0,0,11,,9
+Aurangabad,Obra,district/Aurangabad/index.html,0,6,0,0,6,,1
+Aurangabad,Rafiganj,district/Aurangabad/index.html,0,3,0,0,3,,2
+Aurangabad,Unknown,district/Aurangabad/index.html,0,198,1,272,0,,9
+Aurangabad,Total,district/Aurangabad/index.html,1,326,1,276,49,orange,63
+Banka,Amarpur,district/Banka/index.html,0,11,0,0,11,,3
+Banka,Banka,district/Banka/index.html,0,40,0,0,40,,21
+Banka,Barahat,district/Banka/index.html,0,6,0,0,6,,3
+Banka,Belhar,district/Banka/index.html,1,15,0,0,15,,7
+Banka,Bounsi,district/Banka/index.html,0,15,0,0,15,,7
+Banka,Chandan,district/Banka/index.html,0,5,0,0,5,,3
+Banka,Dhoraiya,district/Banka/index.html,0,28,0,0,28,,22
+Banka,Fullidumar,district/Banka/index.html,0,4,0,0,4,,3
+Banka,Katoriya,district/Banka/index.html,0,21,0,0,21,,10
+Banka,Rajoun,district/Banka/index.html,0,15,0,0,15,,12
+Banka,Shambhuganj,district/Banka/index.html,0,4,0,0,4,,2
+Banka,Unknown,district/Banka/index.html,0,138,0,253,0,,15
+Banka,Total,district/Banka/index.html,1,302,0,253,49,orange,108
+Begusarai,Bachwara,district/Begusarai/index.html,0,7,0,2,5,,7
+Begusarai,Bakhri,district/Begusarai/index.html,0,25,0,0,25,,11
+Begusarai,Balia,district/Begusarai/index.html,0,13,0,1,12,,6
+Begusarai,Barauni,district/Begusarai/index.html,0,15,0,3,12,,12
+Begusarai,Begusarai,district/Begusarai/index.html,0,45,0,0,45,,19
+Begusarai,Bhagawanpur,district/Begusarai/index.html,0,18,0,0,18,,14
+Begusarai,Birpur,district/Begusarai/index.html,0,5,0,0,5,,0
+Begusarai,Cheria Bariyarpur,district/Begusarai/index.html,0,17,0,0,17,,6
+Begusarai,Chhourahi,district/Begusarai/index.html,0,8,0,0,8,,2
+Begusarai,Dandari,district/Begusarai/index.html,0,12,0,0,12,,0
+Begusarai,Gadhpura,district/Begusarai/index.html,0,23,0,0,23,,19
+Begusarai,Khodabandpur,district/Begusarai/index.html,0,6,0,0,6,,4
+Begusarai,Mansurchak,district/Begusarai/index.html,0,6,0,0,6,,5
+Begusarai,Matihani,district/Begusarai/index.html,0,18,0,0,18,,5
+Begusarai,Navkothi,district/Begusarai/index.html,0,3,0,0,3,,3
+Begusarai,Sahebpur Kamal,district/Begusarai/index.html,0,42,0,0,42,,19
+Begusarai,Samho-Akaha-Kurha,district/Begusarai/index.html,0,1,0,0,1,,0
+Begusarai,Teghra,district/Begusarai/index.html,0,13,0,2,11,,11
+Begusarai,Unknown,district/Begusarai/index.html,0,664,6,516,0,,39
+Begusarai,Total,district/Begusarai/index.html,0,813,6,518,289,orange,182
+Bhagalpur,Bihpur,district/Bhagalpur/index.html,0,19,0,0,19,,1
+Bhagalpur,Gauradih,district/Bhagalpur/index.html,0,21,0,0,21,,7
+Bhagalpur,Gopalpur,district/Bhagalpur/index.html,0,14,0,0,14,,1
+Bhagalpur,Ishmailpur,district/Bhagalpur/index.html,0,2,0,0,2,,1
+Bhagalpur,Jagdishpur,district/Bhagalpur/index.html,1,26,0,2,24,,8
+Bhagalpur,Kahalgaon,district/Bhagalpur/index.html,0,28,0,0,28,,4
+Bhagalpur,Kharik,district/Bhagalpur/index.html,0,14,0,0,14,,9
+Bhagalpur,Narayanpur,district/Bhagalpur/index.html,0,16,0,0,16,,5
+Bhagalpur,Nathnagar,district/Bhagalpur/index.html,0,24,0,0,24,,8
+Bhagalpur,Navgachhia,district/Bhagalpur/index.html,0,26,0,1,25,,12
+Bhagalpur,Pirpainty,district/Bhagalpur/index.html,0,17,0,0,17,,1
+Bhagalpur,Rangra Chowk,district/Bhagalpur/index.html,0,8,0,0,8,,5
+Bhagalpur,Sabour,district/Bhagalpur/index.html,0,37,0,0,37,,14
+Bhagalpur,Shahkund,district/Bhagalpur/index.html,0,14,0,0,14,,9
+Bhagalpur,Sanhoula,district/Bhagalpur/index.html,0,17,0,0,17,,10
+Bhagalpur,Sultanganj Purushottam,district/Bhagalpur/index.html,4,35,0,0,35,,9
+Bhagalpur,Unknown,district/Bhagalpur/index.html,0,756,12,622,0,,8
+Bhagalpur,Total,district/Bhagalpur/index.html,5,1074,12,625,437,orange,112
+Bhojpur,Agiaon,district/Bhojpur/index.html,0,7,0,0,7,,1
+Bhojpur,Ara Sadar,district/Bhojpur/index.html,1,50,0,8,42,,25
+Bhojpur,Barhara,district/Bhojpur/index.html,0,7,0,1,6,,1
+Bhojpur,Bihiya,district/Bhojpur/index.html,0,9,0,1,8,,2
+Bhojpur,Charpokhri,district/Bhojpur/index.html,0,5,0,0,5,,1
+Bhojpur,Garhani,district/Bhojpur/index.html,0,8,0,0,8,,1
+Bhojpur,Jagdishpur,district/Bhojpur/index.html,0,24,0,0,24,,18
+Bhojpur,Koilwar,district/Bhojpur/index.html,0,10,0,0,10,,1
+Bhojpur,Piro,district/Bhojpur/index.html,0,6,0,0,6,,0
+Bhojpur,Sahar,district/Bhojpur/index.html,0,2,0,0,2,,0
+Bhojpur,Sandesh,district/Bhojpur/index.html,0,6,0,0,6,,3
+Bhojpur,Shahpur,district/Bhojpur/index.html,1,7,0,0,7,,0
+Bhojpur,Tarari,district/Bhojpur/index.html,0,2,0,0,2,,0
+Bhojpur,Udwantnagar,district/Bhojpur/index.html,0,2,0,0,2,,0
+Bhojpur,Unknown,district/Bhojpur/index.html,0,227,4,304,0,,1
+Bhojpur,Total,district/Bhojpur/index.html,2,372,4,314,54,orange,54
+Buxar,Brahmpur,district/Buxar/index.html,0,9,0,0,9,,4
+Buxar,Buxar,district/Buxar/index.html,1,10,0,0,10,,2
+Buxar,Chakki,district/Buxar/index.html,0,0,0,0,0,,0
+Buxar,Chausha,district/Buxar/index.html,0,1,0,0,1,,0
+Buxar,Chaugain,district/Buxar/index.html,0,1,0,0,1,,0
+Buxar,Dumraon,district/Buxar/index.html,0,61,0,26,35,,54
+Buxar,Itarhi,district/Buxar/index.html,0,17,0,0,17,,14
+Buxar,Kesath,district/Buxar/index.html,3,3,0,0,3,,0
+Buxar,Nawanagar,district/Buxar/index.html,0,13,0,0,13,,2
+Buxar,Rajpur,district/Buxar/index.html,0,17,0,0,17,,13
+Buxar,Simari,district/Buxar/index.html,0,0,0,0,0,,0
+Buxar,Unknown,district/Buxar/index.html,0,177,0,216,0,,25
+Buxar,Total,district/Buxar/index.html,4,309,0,242,67,red,114
+Darbhanga,Alinagar,district/Darbhanga/index.html,0,2,0,0,2,,2
+Darbhanga,Bahadurpur,district/Darbhanga/index.html,2,16,0,0,16,,2
+Darbhanga,Baheri,district/Darbhanga/index.html,6,12,0,0,12,,0
+Darbhanga,Benipur,district/Darbhanga/index.html,0,3,0,0,3,,3
+Darbhanga,Biraul,district/Darbhanga/index.html,1,11,0,0,11,,8
+Darbhanga,Darbhanga,district/Darbhanga/index.html,3,33,0,0,33,,18
+Darbhanga,Gaura Bauram,district/Darbhanga/index.html,0,3,0,0,3,,3
+Darbhanga,Ghanshyampur,district/Darbhanga/index.html,0,4,0,0,4,,1
+Darbhanga,Hanuman Nagar,district/Darbhanga/index.html,0,10,0,0,10,,1
+Darbhanga,Hayaghat,district/Darbhanga/index.html,0,0,0,0,0,,0
+Darbhanga,Jale,district/Darbhanga/index.html,4,18,0,0,18,,0
+Darbhanga,Keoti,district/Darbhanga/index.html,1,9,0,0,9,,0
+Darbhanga,Kiratpur,district/Darbhanga/index.html,0,10,0,0,10,,7
+Darbhanga,Kusheswar Asthan,district/Darbhanga/index.html,0,20,0,0,20,,12
+Darbhanga,Kusheswar Asthan East,district/Darbhanga/index.html,0,1,0,0,1,,0
+Darbhanga,Manigachhi,district/Darbhanga/index.html,0,3,0,0,3,,0
+Darbhanga,Singhwara,district/Darbhanga/index.html,0,3,0,0,3,,2
+Darbhanga,Tardih,district/Darbhanga/index.html,0,4,0,0,4,,0
+Darbhanga,Unknown,district/Darbhanga/index.html,0,243,10,348,0,,11
+Darbhanga,Total,district/Darbhanga/index.html,17,405,10,348,47,orange,70
+East Champaran,Adapur,district/East Champaran/index.html,0,1,0,0,1,,0
+East Champaran,Areraj,district/East Champaran/index.html,0,12,0,0,12,,7
+East Champaran,Banjariya,district/East Champaran/index.html,0,3,1,0,2,,3
+East Champaran,Chakia,district/East Champaran/index.html,0,0,0,0,0,,0
+East Champaran,Chhauradano,district/East Champaran/index.html,0,3,0,0,3,,3
+East Champaran,Chiraiya,district/East Champaran/index.html,0,4,0,0,4,,3
+East Champaran,Dhaka,district/East Champaran/index.html,0,6,0,0,6,,4
+East Champaran,Ghorasahan,district/East Champaran/index.html,0,4,0,0,4,,4
+East Champaran,Harsiddhi,district/East Champaran/index.html,0,0,0,0,0,,0
+East Champaran,Kalyanpur,district/East Champaran/index.html,0,7,0,0,7,,3
+East Champaran,Kesaria,district/East Champaran/index.html,0,1,0,0,1,,0
+East Champaran,Kotwa,district/East Champaran/index.html,0,0,0,0,0,,0
+East Champaran,Madhuban,district/East Champaran/index.html,0,4,0,0,4,,4
+East Champaran,Mehsi,district/East Champaran/index.html,0,5,0,0,5,,0
+East Champaran,Motihari,district/East Champaran/index.html,0,14,0,0,14,,11
+East Champaran,Paharpur,district/East Champaran/index.html,0,12,0,0,12,,10
+East Champaran,Pakaridayal,district/East Champaran/index.html,0,1,0,0,1,,1
+East Champaran,Patahi,district/East Champaran/index.html,0,7,0,0,7,,6
+East Champaran,Phenhara,district/East Champaran/index.html,0,1,0,0,1,,1
+East Champaran,Piprakothi,district/East Champaran/index.html,0,0,0,0,0,,0
+East Champaran,Ramgarhwa,district/East Champaran/index.html,0,4,0,0,4,,3
+East Champaran,Raxaul,district/East Champaran/index.html,0,2,0,0,2,,1
+East Champaran,Sangrampur,district/East Champaran/index.html,0,1,0,0,1,,0
+East Champaran,Sugauli,district/East Champaran/index.html,0,0,0,0,0,,0
+East Champaran,Tetaria,district/East Champaran/index.html,0,1,0,0,1,,1
+East Champaran,Turkauliya,district/East Champaran/index.html,0,3,0,0,3,,2
+East Champaran,Bankatwa,district/East Champaran/index.html,0,0,0,0,0,,0
+East Champaran,Unknown,district/East Champaran/index.html,0,250,5,268,0,,27
+East Champaran,Total,district/East Champaran/index.html,0,346,6,268,72,orange,94
+Gaya,Amas,district/Gaya/index.html,0,3,0,0,3,,1
+Gaya,Atri,district/Gaya/index.html,0,5,0,0,5,,5
+Gaya,Banke Bazar,district/Gaya/index.html,0,1,0,0,1,,1
+Gaya,Barachatty,district/Gaya/index.html,0,8,0,0,8,,8
+Gaya,Bathani,district/Gaya/index.html,0,2,0,0,2,,0
+Gaya,Belaganj,district/Gaya/index.html,0,2,0,0,2,,1
+Gaya,Bodh Gaya,district/Gaya/index.html,0,1,0,0,1,,0
+Gaya,Dobhi,district/Gaya/index.html,0,2,0,0,2,,0
+Gaya,Dumariya,district/Gaya/index.html,0,6,0,0,6,,4
+Gaya,Fatehpur,district/Gaya/index.html,0,23,0,5,18,,15
+Gaya,Gaya Sadar,district/Gaya/index.html,0,9,0,0,9,,0
+Gaya,Guraru,district/Gaya/index.html,0,1,0,0,1,,0
+Gaya,Gurua,district/Gaya/index.html,0,1,0,0,1,,0
+Gaya,Imamganj,district/Gaya/index.html,0,1,0,0,1,,0
+Gaya,Khizar Sarai,district/Gaya/index.html,0,8,0,0,8,,2
+Gaya,Konch,district/Gaya/index.html,0,8,0,0,8,,1
+Gaya,Manpur,district/Gaya/index.html,0,4,0,0,4,,1
+Gaya,Mohanpur,district/Gaya/index.html,0,2,0,0,2,,0
+Gaya,Mohra,district/Gaya/index.html,0,0,0,0,0,,0
+Gaya,Paraiya,district/Gaya/index.html,0,9,0,0,9,,0
+Gaya,Sherghatty,district/Gaya/index.html,0,7,0,0,7,,3
+Gaya,Tankuppa,district/Gaya/index.html,0,8,0,0,8,,8
+Gaya,Tekari,district/Gaya/index.html,0,23,0,0,23,,8
+Gaya,Wazirganj,district/Gaya/index.html,0,8,0,0,8,,1
+Gaya,Unknown,district/Gaya/index.html,0,328,5,268,0,,6
+Gaya,Total,district/Gaya/index.html,0,470,5,273,192,red,65
+Gopalganj,Baikunthpur,district/Gopalganj/index.html,0,4,0,0,4,,1
+Gopalganj,Barauli,district/Gopalganj/index.html,0,18,0,0,18,,14
+Gopalganj,Bhore,district/Gopalganj/index.html,0,23,0,1,22,,9
+Gopalganj,Gopalganj,district/Gopalganj/index.html,1,34,0,0,34,,27
+Gopalganj,Hathua,district/Gopalganj/index.html,0,10,0,0,10,,3
+Gopalganj,Kateya,district/Gopalganj/index.html,0,13,0,0,13,,1
+Gopalganj,Kuchaikot,district/Gopalganj/index.html,0,4,0,0,4,,1
+Gopalganj,Manjha,district/Gopalganj/index.html,0,11,0,0,11,,11
+Gopalganj,Panchdevari,district/Gopalganj/index.html,0,10,0,0,10,,8
+Gopalganj,Phulwaria,district/Gopalganj/index.html,0,5,0,0,5,,5
+Gopalganj,Sidhwalia,district/Gopalganj/index.html,0,6,0,0,6,,2
+Gopalganj,Thawe,district/Gopalganj/index.html,0,8,0,1,7,,4
+Gopalganj,Uchkagaon,district/Gopalganj/index.html,0,7,0,1,6,,3
+Gopalganj,Vijaipur,district/Gopalganj/index.html,0,2,0,0,2,,2
+Gopalganj,Unknown,district/Gopalganj/index.html,0,316,1,297,0,,10
+Gopalganj,Total,district/Gopalganj/index.html,1,471,1,300,170,orange,101
+Jamui,Barhat,district/Jamui/index.html,0,2,0,0,2,,2
+Jamui,Chakai,district/Jamui/index.html,0,2,0,0,2,,0
+Jamui,Gidhaur,district/Jamui/index.html,0,2,0,0,2,,0
+Jamui,Isalmanagar Aliganj,district/Jamui/index.html,0,4,0,0,4,,0
+Jamui,Jamui,district/Jamui/index.html,1,5,0,0,5,,4
+Jamui,Jhajha,district/Jamui/index.html,0,14,0,0,14,,9
+Jamui,Khaira,district/Jamui/index.html,0,7,0,0,7,,2
+Jamui,Laxmipur,district/Jamui/index.html,0,5,0,0,5,,0
+Jamui,Sikandra,district/Jamui/index.html,0,5,0,0,5,,0
+Jamui,Sono,district/Jamui/index.html,0,1,0,0,1,,1
+Jamui,Unknown,district/Jamui/index.html,0,154,1,103,0,,11
+Jamui,Total,district/Jamui/index.html,1,201,1,103,97,orange,29
+Jehanabad,Ghoshi,district/Jehanabad/index.html,0,31,0,1,30,,21
+Jehanabad,Hulasgunj,district/Jehanabad/index.html,0,27,0,0,27,,21
+Jehanabad,Jehanabad,district/Jehanabad/index.html,1,37,0,0,37,,18
+Jehanabad,Kako,district/Jehanabad/index.html,0,27,0,0,27,,15
+Jehanabad,Makhdumpur,district/Jehanabad/index.html,0,22,0,0,22,,9
+Jehanabad,Modanganj,district/Jehanabad/index.html,0,25,0,0,25,,15
+Jehanabad,Ratni Faridpur,district/Jehanabad/index.html,0,24,0,0,24,,15
+Jehanabad,Unknown,district/Jehanabad/index.html,0,151,3,270,0,,0
+Jehanabad,Total,district/Jehanabad/index.html,1,344,3,271,70,orange,114
+Kaimur,Adhaura,district/Kaimur/index.html,0,0,0,0,0,,0
+Kaimur,Bhabhua,district/Kaimur/index.html,0,50,0,8,42,,32
+Kaimur,Bhagwanpur,district/Kaimur/index.html,0,8,0,0,8,,1
+Kaimur,Chainpur,district/Kaimur/index.html,0,29,0,8,21,,20
+Kaimur,Chand,district/Kaimur/index.html,0,5,0,0,5,,0
+Kaimur,Durgawati,district/Kaimur/index.html,0,9,0,0,9,,1
+Kaimur,Kudra,district/Kaimur/index.html,0,7,0,0,7,,1
+Kaimur,Mohania,district/Kaimur/index.html,0,8,0,0,8,,1
+Kaimur,Nuawon,district/Kaimur/index.html,0,4,0,0,4,,0
+Kaimur,Ramgarh,district/Kaimur/index.html,0,9,0,0,9,,0
+Kaimur,Rampur,district/Kaimur/index.html,0,4,0,0,4,,0
+Kaimur,Unknown,district/Kaimur/index.html,0,107,3,197,0,,1
+Kaimur,Total,district/Kaimur/index.html,0,240,3,213,24,orange,57
+Katihar,Amdabad,district/Katihar/index.html,0,24,0,0,24,,6
+Katihar,Azamnagar,district/Katihar/index.html,0,11,0,0,11,,3
+Katihar,Balrampur,district/Katihar/index.html,0,1,0,0,1,,0
+Katihar,Barari,district/Katihar/index.html,0,11,0,0,11,,4
+Katihar,Barsoi,district/Katihar/index.html,0,37,0,0,37,,33
+Katihar,Dandkhora,district/Katihar/index.html,0,6,0,0,6,,3
+Katihar,Falka,district/Katihar/index.html,0,10,0,0,10,,3
+Katihar,Hasanganj,district/Katihar/index.html,0,2,0,0,2,,0
+Katihar,Kadwa,district/Katihar/index.html,0,10,0,0,10,,3
+Katihar,Katihar,district/Katihar/index.html,0,16,0,0,16,,15
+Katihar,Korha,district/Katihar/index.html in,0,9,0,0,9,,6
+Katihar,Kursela,district/Katihar/index.html,0,18,0,0,18,,16
+Katihar,Manihari,district/Katihar/index.html,1,8,0,0,8,,2
+Katihar,Mansahi,district/Katihar/index.html,0,9,0,0,9,,1
+Katihar,Pranpur,district/Katihar/index.html,0,11,0,0,11,,6
+Katihar,Sameli,district/Katihar/index.html,0,1,0,0,1,,0
+Katihar,Unknown,district/Katihar/index.html,0,299,1,420,0,,34
+Katihar,Total,district/Katihar/index.html,1,483,1,420,62,orange,135
+Khagaria,Allouli,district/Khagaria/index.html,0,39,0,0,39,,33
+Khagaria,Beldaur,district/Khagaria/index.html,0,14,0,0,14,,9
+Khagaria,Chautham,district/Khagaria/index.html,0,23,0,0,23,,20
+Khagaria,Gogari,district/Khagaria/index.html,0,11,1,0,10,,8
+Khagaria,Khagaria,district/Khagaria/index.html,0,55,0,0,13,,37
+Khagaria,Mansi,district/Khagaria/index.html,0,19,0,0,19,,12
+Khagaria,Parbatta,district/Khagaria/index.html,0,17,0,0,17,,6
+Khagaria,Unknown,district/Khagaria/index.html,0,253,2,331,0,,24
+Khagaria,Total,district/Khagaria/index.html,0,431,3,331,97,orange,149
+Kishanganj,Bahadurganj,district/Kishanganj/index.html,3,45,0,0,45,,10
+Kishanganj,Dighalbank,district/Kishanganj/index.html,0,9,0,0,9,,0
+Kishanganj,Kishanganj,district/Kishanganj/index.html,0,17,0,0,17,,11
+Kishanganj,Kochadhaman,district/Kishanganj/index.html,6,12,0,0,12,,3
+Kishanganj,Pothia,district/Kishanganj/index.html,0,8,0,0,8,,1
+Kishanganj,Terhagachh,district/Kishanganj/index.html,2,14,0,0,14,,0
+Kishanganj,Thakurganj,district/Kishanganj/index.html,0,27,0,0,27,,7
+Kishanganj,Unknown,district/Kishanganj/index.html,0,105,2,208,0,,0
+Kishanganj,Total,district/Kishanganj/index.html,11,237,2,208,27,orange,32
+Lakhisarai,Barahia,district/Lakhisarai/index.html,0,5,0,0,5,,0
+Lakhisarai,Channan,district/Lakhisarai/index.html,0,13,0,0,13,,2
+Lakhisarai,Halsi,district/Lakhisarai/index.html,0,14,0,0,14,,5
+Lakhisarai,Lakhisarai,district/Lakhisarai/index.html,0,30,0,0,30,,14
+Lakhisarai,Piparia,district/Lakhisarai/index.html,0,2,0,0,2,,0
+Lakhisarai,Ramgarh Chowk,district/Lakhisarai/index.html,1,4,0,0,4,,2
+Lakhisarai,Suryagarha,district/Lakhisarai/index.html,0,12,0,1,11,,5
+Lakhisarai,Unknown,district/Lakhisarai/index.html,0,142,0,144,0,,3
+Lakhisarai,Total,district/Lakhisarai/index.html,1,222,0,145,77,orange,31
+Madhepura,ALAMNAGAR,district/Madhepura/index.html,0,5,0,0,5,,5
+Madhepura,BIHARIGANJ,district/Madhepura/index.html,1,21,0,1,20,,18
+Madhepura,CHAUSA,district/Madhepura/index.html,0,23,0,0,23,,2
+Madhepura,GHAILADH,district/Madhepura/index.html,0,9,0,1,8,,3
+Madhepura,GAMHARIA,district/Madhepura/index.html,0,3,0,0,3,,1
+Madhepura,GUALPARA,district/Madhepura/index.html,0,7,0,0,7,,0
+Madhepura,KUMARKHAND,district/Madhepura/index.html,0,14,0,0,14,,3
+Madhepura,MADHEPURA,district/Madhepura/index.html,0,17,0,0,17,,4
+Madhepura,MURLIGANJ,district/Madhepura/index.html,0,3,0,0,3,,1
+Madhepura,PURAINI,district/Madhepura/index.html,0,6,0,0,6,,6
+Madhepura,SHANKARPUR,district/Madhepura/index.html,3,15,0,0,15,,3
+Madhepura,SIGHESHWARSTHAN,district/Madhepura/index.html,0,9,0,0,9,,1
+Madhepura,UDA KISHANGANJ,district/Madhepura/index.html,0,9,0,0,9,,3
+Madhepura,Unknown,district/Madhepura/index.html,0,130,1,218,0,,2
+Madhepura,Total,district/Madhepura/index.html,4,271,1,220,50,orange,52
+Madhubani,ANDHARATHARI,district/Madhubani/index.html,0,1,0,0,1,,0
+Madhubani,BABUBARHI,district/Madhubani/index.html,0,5,0,0,5,,0
+Madhubani,BASOPATTI,district/Madhubani/index.html,0,26,0,0,26,,24
+Madhubani,BENIPATTI,district/Madhubani/index.html,4,24,0,0,24,,11
+Madhubani,BISFI,district/Madhubani/index.html,1,1,0,0,1,,0
+Madhubani,GHOGHARDIHA,district/Madhubani/index.html,0,5,0,0,5,,5
+Madhubani,HARLAKHI,district/Madhubani/index.html,0,13,0,0,13,,1
+Madhubani,JAINAGAR,district/Madhubani/index.html,0,4,0,0,4,,4
+Madhubani,JHANJHARPUR,district/Madhubani/index.html,0,38,0,0,38,,25
+Madhubani,KALUAHI,district/Madhubani/index.html,0,2,0,0,2,,2
+Madhubani,KHAJAULI,district/Madhubani/index.html,1,25,0,0,25,,1
+Madhubani,KHUTAUNA,district/Madhubani/index.html,8,33,0,0,33,,21
+Madhubani,LADANIA,district/Madhubani/index.html,1,8,0,0,8,,1
+Madhubani,LAKHANAUR,district/Madhubani/index.html,1,8,0,0,8,,5
+Madhubani,LAUKAHI,district/Madhubani/index.html,2,15,0,0,15,,6
+Madhubani,MADHEPUR,district/Madhubani/index.html,0,18,0,0,18,,5
+Madhubani,MADHWAPUR,district/Madhubani/index.html,0,2,0,0,2,,1
+Madhubani,PANDAUL,district/Madhubani/index.html,2,11,0,0,11,,8
+Madhubani,PHULPARAS,district/Madhubani/index.html,0,12,0,0,12,,2
+Madhubani,RAHIKA,district/Madhubani/index.html,3,16,0,0,16,,8
+Madhubani,RAJNAGAR,district/Madhubani/index.html,0,40,0,0,40,,12
+Madhubani,Unknown,district/Madhubani/index.html,0,325,2,536,0,,35
+Madhubani,Total,district/Madhubani/index.html,23,632,2,536,94,orange,177
+Munger,ASARGANJ,district/Munger/index.html,0,34,0,0,34,,8
+Munger,BARIYARPUR,district/Munger/index.html,0,16,0,0,16,,1
+Munger,DHARAHARA,district/Munger/index.html,0,6,0,0,6,,3
+Munger,HAVELI KHARAGPUR,district/Munger/index.html,0,25,0,0,25,,6
+Munger,JAMALPUR,district/Munger/index.html,0,99,0,30,69,,91
+Munger,MUNGER SADAR,district/Munger/index.html,0,38,1,8,29,,29
+Munger,SANGARAMPUR,district/Munger/index.html,0,27,0,0,27,,1
+Munger,TARAPURA,district/Munger/index.html,0,13,0,0,13,,3
+Munger,TETIYA BAMBER,district/Munger/index.html,0,32,0,0,32,,5
+Munger,Unknown,district/Munger/index.html,0,356,1,360,0,,0
+Munger,Total,district/Munger/index.html,0,646,2,398,246,red,147
+Muzaffarpur,AURAI,district/Muzaffarpur/index.html,0,2,0,0,2,,0
+Muzaffarpur,BANDRA,district/Muzaffarpur/index.html,0,4,0,0,4,,1
+Muzaffarpur,BOCHAHAN,district/Muzaffarpur/index.html,1,14,0,0,14,,2
+Muzaffarpur,GAIGHAT,district/Muzaffarpur/index.html,0,1,0,0,1,,1
+Muzaffarpur,KANTI,district/Muzaffarpur/index.html,0,2,0,0,2,,2
+Muzaffarpur,KATARA,district/Muzaffarpur/index.html,0,16,0,0,16,,1
+Muzaffarpur,KURHANI,district/Muzaffarpur/index.html,0,7,0,0,7,,3
+Muzaffarpur,MARWAN,district/Muzaffarpur/index.html,0,17,0,0,17,,2
+Muzaffarpur,MINAPUR,district/Muzaffarpur/index.html,0,14,0,0,14,,8
+Muzaffarpur,MOTIPUR,district/Muzaffarpur/index.html,0,11,0,0,11,,7
+Muzaffarpur,MURAUL,district/Muzaffarpur/index.html,0,3,0,0,3,,0
+Muzaffarpur,MUSHAHARI,district/Muzaffarpur/index.html,0,18,0,0,18,,0
+Muzaffarpur,PAROO,district/Muzaffarpur/index.html,0,10,0,0,10,,0
+Muzaffarpur,SAHEBGANJ,district/Muzaffarpur/index.html,0,13,0,0,13,,3
+Muzaffarpur,SAKRA,district/Muzaffarpur/index.html,0,24,0,0,24,,3
+Muzaffarpur,SARAIYA,district/Muzaffarpur/index.html,0,20,0,0,20,,8
+Muzaffarpur,Unknown,district/Muzaffarpur/index.html,0,611,6,541,0,,2
+Muzaffarpur,Total,district/Muzaffarpur/index.html,1,787,6,541,240,orange,43
+Nalanda,ASTHAWAN,district/Nalanda/index.html,0,5,0,0,5,,3
+Nalanda,BEN,district/Nalanda/index.html,0,1,0,0,1,,0
+Nalanda,BIHARSARIF,district/Nalanda/index.html,0,55,0,28,27,,40
+Nalanda,BIND,district/Nalanda/index.html,0,8,0,0,8,,8
+Nalanda,CHANDI,district/Nalanda/index.html,0,13,0,0,13,,10
+Nalanda,EKANGARSARAI,district/Nalanda/index.html,0,9,0,0,9,,1
+Nalanda,GIRIYAK,district/Nalanda/index.html,0,6,0,0,6,,3
+Nalanda,HARNAUT,district/Nalanda/index.html,0,7,0,0,7,,3
+Nalanda,HILSA,district/Nalanda/index.html,0,6,0,0,6,,5
+Nalanda,ISLAMPUR,district/Nalanda/index.html,1,8,0,0,8,,6
+Nalanda,KARAI PARSURAI,district/Nalanda/index.html,0,3,0,0,3,,1
+Nalanda,KATRISARAI,district/Nalanda/index.html,0,1,0,0,1,,0
+Nalanda,NAGARNAUSA,district/Nalanda/index.html,0,7,0,1,6,,3
+Nalanda,NOORSARAI,district/Nalanda/index.html,0,8,0,0,8,,2
+Nalanda,PARWALPUR,district/Nalanda/index.html,0,1,0,0,1,,1
+Nalanda,RAHUI,district/Nalanda/index.html,0,12,0,0,12,,11
+Nalanda,RAJGIR,district/Nalanda/index.html,0,4,0,0,4,,2
+Nalanda,SARMERA,district/Nalanda/index.html,0,2,0,0,2,,0
+Nalanda,SILAO,district/Nalanda/index.html,0,8,0,1,7,,1
+Nalanda,THARTHARI,district/Nalanda/index.html,0,1,0,0,1,,1
+Nalanda,Unknown,district/Nalanda/index.html,0,387,7,391,0,,1
+Nalanda,Total,district/Nalanda/index.html,1,552,7,421,124,orange,102
+Nawada,AKBARPUR,district/Nawada/index.html,0,16,0,0,16,,3
+Nawada,GOVINDPUR,district/Nawada/index.html,0,14,0,0,14,,1
+Nawada,HISUA,district/Nawada/index.html,0,13,0,0,13,,4
+Nawada,KASHICHAK,district/Nawada/index.html,0,7,0,0,7,,0
+Nawada,KOWAKOLE,district/Nawada/index.html,0,17,0,0,17,,8
+Nawada,MESKAUR,district/Nawada/index.html,0,9,0,1,8,,5
+Nawada,NARDIGANJ,district/Nawada/index.html,0,9,0,0,9,,1
+Nawada,NARHAT,district/Nawada/index.html,0,23,0,0,23,,8
+Nawada,NAWADA,district/Nawada/index.html,0,20,0,1,19,,18
+Nawada,PAKARIBARAWAN,district/Nawada/index.html,0,8,0,0,8,,2
+Nawada,RAJAULI,district/Nawada/index.html,0,15,0,0,15,,9
+Nawada,ROH,district/Nawada/index.html,0,6,0,0,6,,0
+Nawada,SIRDALA,district/Nawada/index.html,0,15,0,0,15,,9
+Nawada,WARSALIGANJ,district/Nawada/index.html,0,8,0,0,8,,2
+Nawada,Unknown,district/Nawada/index.html,0,387,3,389,0,,13
+Nawada,Total,district/Nawada/index.html,0,567,3,391,173,orange,83
+Patna,ATHMALGOLA,district/Patna/index.html,0,20,0,0,20,,14
+Patna,BAKHTIARPUR,district/Patna/index.html,0,7,0,1,6,,3
+Patna,BARH,district/Patna/index.html,0,33,0,0,33,,30
+Patna,BELCHHI,district/Patna/index.html,0,9,1,0,8,,7
+Patna,BIHTA,district/Patna/index.html,0,0,0,0,0,,0
+Patna,BIKRAM,district/Patna/index.html,0,8,0,0,8,,5
+Patna,DANAPUR,district/Patna/index.html,0,7,0,0,7,,2
+Patna,DANIYAWAAN,district/Patna/index.html,0,4,0,0,4,,0
+Patna,DHANARUA,district/Patna/index.html,4,15,0,0,15,,10
+Patna,DULHIN BAZAR,district/Patna/index.html,0,5,0,0,5,,4
+Patna,FATUHA,district/Patna/index.html,2,5,0,0,5,,1
+Patna,GHOSWARI,district/Patna/index.html,0,0,0,0,0,,0
+Patna,KHUSRUPUR,district/Patna/index.html,0,2,0,0,2,,2
+Patna,MANER,district/Patna/index.html,0,3,0,0,3,,0
+Patna,MASAURHI,district/Patna/index.html,0,15,0,0,15,,2
+Patna,MOKAMA,district/Patna/index.html,0,6,0,0,6,,4
+Patna,NAUBATPUR,district/Patna/index.html,0,9,0,1,8,,3
+Patna,PALIGANJ,district/Patna/index.html,0,23,0,0,23,,8
+Patna,PANDARAK,district/Patna/index.html,0,12,0,0,12,,6
+Patna,PATNA SADAR,district/Patna/index.html,10,183,1,13,169,,103
+Patna,PHULWARI SHARIF,district/Patna/index.html,0,7,0,1,6,,3
+Patna,PUNPUN,district/Patna/index.html,0,1,0,0,1,,0
+Patna,SAMPATCHAK,district/Patna/index.html,0,12,0,2,10,,9
+Patna,Unknown,district/Patna/index.html,0,1711,13,1154,0,,17
+Patna,Total,district/Patna/index.html,16,2097,15,1172,910,red,233
+Purnia,AMOUR,district/Purnia/index.html,0,9,0,0,9,,3
+Purnia,BAISA,district/Purnia/index.html,0,9,0,0,9,,3
+Purnia,BAISI,district/Purnia/index.html,0,5,0,0,5,,0
+Purnia,BANMANKHI,district/Purnia/index.html,0,4,0,0,4,,1
+Purnia,BARHARA KOTHI,district/Purnia/index.html,0,7,0,0,7,,2
+Purnia,BHAWANIPUR,district/Purnia/index.html,0,3,0,0,3,,2
+Purnia,DAGARUA,district/Purnia/index.html,0,6,0,0,6,,0
+Purnia,DHAMDAHA,district/Purnia/index.html,0,8,0,0,8,,0
+Purnia,JALALGARH,district/Purnia/index.html,0,20,0,0,20,,4
+Purnia,KRITYANANDNAGAR,district/Purnia/index.html,0,38,0,0,38,,1
+Purnia,KASBA,district/Purnia/index.html,0,18,0,0,18,,0
+Purnia,PURNIA,district/Purnia/index.html,0,47,0,0,47,,16
+Purnia,RUPOULI,district/Purnia/index.html,0,36,0,0,36,,28
+Purnia,SRINAGAR,district/Purnia/index.html,0,19,0,0,19,,2
+Purnia,Unknown,district/Purnia/index.html,0,149,0,321,0,,0
+Purnia,Total,district/Purnia/index.html,0,378,0,321,57,orange,62
+Rohtas,AKORHIGOLA,district/Rohtas/index.html,0,1,0,0,1,,0
+Rohtas,BIKRAMGANJ,district/Rohtas/index.html,0,16,0,0,16,,3
+Rohtas,CHENARI,district/Rohtas/index.html,0,13,0,0,13,,8
+Rohtas,DAWATH,district/Rohtas/index.html,0,10,0,0,10,,6
+Rohtas,DEHRI,district/Rohtas/index.html,0,28,0,0,28,,10
+Rohtas,DINARA,district/Rohtas/index.html,0,14,0,0,14,,12
+Rohtas,KARAKAT,district/Rohtas/index.html,0,7,0,0,7,,1
+Rohtas,KARGAHAR,district/Rohtas/index.html,0,14,0,1,13,,10
+Rohtas,KOCHAS,district/Rohtas/index.html,0,30,0,5,25,,28
+Rohtas,NASRIGANJ,district/Rohtas/index.html,0,6,0,0,6,,5
+Rohtas,NAUHATTA,district/Rohtas/index.html,0,0,0,0,0,,0
+Rohtas,NOKHA,district/Rohtas/index.html,0,4,0,0,4,,4
+Rohtas,RAJPUR,district/Rohtas/index.html,0,7,0,1,6,,2
+Rohtas,ROHTAS,district/Rohtas/index.html,0,3,0,0,3,,1
+Rohtas,SANJHAULI,district/Rohtas/index.html,0,3,0,0,3,,2
+Rohtas,SASARAM,district/Rohtas/index.html,0,98,1,14,83,,84
+Rohtas,SHEOSAGAR,district/Rohtas/index.html,0,15,0,1,14,,6
+Rohtas,SURAJPURA,district/Rohtas/index.html,0,1,0,0,1,,1
+Rohtas,TILOUTHU,district/Rohtas/index.html,0,6,0,0,6,,4
+Rohtas,Unknown,district/Rohtas/index.html,0,220,5,346,0,,0
+Rohtas,Total,district/Rohtas/index.html,0,496,6,368,122,red,187
+Saharsa,BANMA ITAHRI,district/Saharsa/index.html,0,14,0,0,14,,13
+Saharsa,KAHRA,district/Saharsa/index.html,14,52,0,0,52,,21
+Saharsa,MAHISHI,district/Saharsa/index.html,1,14,0,0,14,,4
+Saharsa,NAUHATTA,district/Saharsa/index.html,0,3,0,0,3,,0
+Saharsa,PATARGHAT,district/Saharsa/index.html,0,7,0,0,7,,0
+Saharsa,SALKHUA,district/Saharsa/index.html,0,1,0,0,1,,1
+Saharsa,SATTAR KATIYA,district/Saharsa/index.html,0,9,0,0,9,,0
+Saharsa,SAUR BAZAR,district/Saharsa/index.html,0,5,0,0,5,,2
+Saharsa,SIMRI BAKHTIYARPUR,district/Saharsa/index.html,2,5,0,0,5,,2
+Saharsa,SONBARSA,district/Saharsa/index.html,1,17,0,0,17,,11
+Saharsa,Unknown,district/Saharsa/index.html,0,185,1,268,1,,4
+Saharsa,Total,district/Saharsa/index.html,18,312,1,268,43,orange,58
+Samastipur,BIBHUTIPUR,district/Samastipur/index.html,0,14,0,0,14,,0
+Samastipur,BITHAN,district/Samastipur/index.html,0,1,0,0,1,,0
+Samastipur,DALSINGSARAI,district/Samastipur/index.html,0,20,0,0,20,,2
+Samastipur,HASANPUR,district/Samastipur/index.html,0,1,0,0,1,,1
+Samastipur,KALYANPUR,district/Samastipur/index.html,1,3,0,0,3,,1
+Samastipur,KHANPUR,district/Samastipur/index.html,0,4,0,0,4,,0
+Samastipur,MOHANPUR,district/Samastipur/index.html,0,1,0,0,1,,0
+Samastipur,MOHIUDDINNAGAR,district/Samastipur/index.html,0,4,0,0,4,,1
+Samastipur,MORWA,district/Samastipur/index.html,0,16,0,0,16,,16
+Samastipur,PATORI,district/Samastipur/index.html,0,6,0,0,6,,0
+Samastipur,PUSA,district/Samastipur/index.html,4,7,0,0,7,,0
+Samastipur,ROSERA,district/Samastipur/index.html,5,19,0,0,19,,4
+Samastipur,SAMASTIPUR,district/Samastipur/index.html,0,31,0,0,31,,4
+Samastipur,SARAIRANJAN,district/Samastipur/index.html,0,8,0,0,8,,3
+Samastipur,SHIVAJEENAGAR,district/Samastipur/index.html,0,11,0,0,11,,0
+Samastipur,SINGHIA,district/Samastipur/index.html,6,14,0,0,14,,5
+Samastipur,TAJPUR,district/Samastipur/index.html,0,2,0,0,2,,2
+Samastipur,UJIYARPUR,district/Samastipur/index.html,0,10,0,0,10,,4
+Samastipur,VIDYAPATINAGAR,district/Samastipur/index.html,0,16,0,0,16,,2
+Samastipur,WARISNAGAR,district/Samastipur/index.html,0,12,0,0,12,,1
+Samastipur,Unknown,district/Samastipur/index.html,0,282,7,368,0,,17
+Samastipur,Total,district/Samastipur/index.html,16,482,7,368,107,orange,63
+Saran,AMNOUR,district/Saran/index.html,0,2,0,1,1,,1
+Saran,BANIYAPUR,district/Saran/index.html,0,4,0,0,4,,3
+Saran,CHAPRA,district/Saran/index.html,0,14,0,0,14,,2
+Saran,DARIYAPUR,district/Saran/index.html,0,28,0,0,28,,2
+Saran,DIGHWARA,district/Saran/index.html,0,3,0,0,3,,0
+Saran,EKMA,district/Saran/index.html,0,13,0,0,13,,2
+Saran,GARKHA,district/Saran/index.html,0,6,0,0,6,,1
+Saran,ISHUAPUR,district/Saran/index.html,0,4,0,1,3,,3
+Saran,JALALPUR,district/Saran/index.html,0,0,0,0,0,,0
+Saran,LAHLADPUR,district/Saran/index.html,0,1,0,0,1,,1
+Saran,MAKER,district/Saran/index.html,0,1,0,0,1,,0
+Saran,MANJHI,district/Saran/index.html,0,2,0,0,2,,0
+Saran,MARHOURAH,district/Saran/index.html,0,4,0,0,4,,4
+Saran,MASHRAKH,district/Saran/index.html,0,9,0,0,9,,1
+Saran,NAGRA,district/Saran/index.html,0,0,0,0,0,,0
+Saran,PANAPUR,district/Saran/index.html,0,0,0,0,0,,0
+Saran,PARSA,district/Saran/index.html,0,12,0,0,12,,4
+Saran,RIVILGANJ,district/Saran/index.html,0,3,0,0,3,,2
+Saran,SONEPUR,district/Saran/index.html,2,28,0,0,28,,14
+Saran,TARAIYAN,district/Saran/index.html,0,1,0,0,1,,1
+Saran,Unknown,district/Saran/index.html,0,250,5,261,0,,11
+Saran,Total,district/Saran/index.html,2,385,5,263,117,orange,52
+Sheikhpura,ARIARI,district/Sheikhpura/index.html,0,34,0,0,34,,13
+Sheikhpura,BARBIGHA,district/Sheikhpura/index.html,0,7,0,0,7,,2
+Sheikhpura,CHEWARA,district/Sheikhpura/index.html,0,9,0,0,9,,2
+Sheikhpura,GHAT KUSUMBA,district/Sheikhpura/index.html,0,10,0,0,10,,3
+Sheikhpura,SHEIKHPURA,district/Sheikhpura/index.html,1,47,0,0,47,,19
+Sheikhpura,SHEKHOPUR SARAI,district/Sheikhpura/index.html,0,10,0,0,10,,7
+Sheikhpura,Unknown,district/Sheikhpura/index.html,0,92,0,164,0,,13
+Sheikhpura,Total,district/Sheikhpura/index.html,1,209,0,164,45,orange,59
+Sheohar,DUMARI,district/Sheohar/index.html,0,15,0,0,15,,1
+Sheohar,PIPRAHI,district/Sheohar/index.html,0,1,0,0,1,,0
+Sheohar,PURNAHIYA,district/Sheohar/index.html,0,5,0,0,5,,2
+Sheohar,SHEOHAR,district/Sheohar/index.html,0,18,0,0,18,,3
+Sheohar,TARIYANI,district/Sheohar/index.html,0,11,0,0,11,,0
+Sheohar,Unknown,district/Sheohar/index.html,0,67,1,98,0,,0
+Sheohar,Total,district/Sheohar/index.html,0,117,1,98,18,orange,6
+Sitamarhi,BAIRGANIA,district/Sitamarhi/index.html,0,2,0,0,2,,0
+Sitamarhi,BAJPATTI,district/Sitamarhi/index.html,0,7,0,0,7,,0
+Sitamarhi,BATHNAHA,district/Sitamarhi/index.html,0,3,0,0,3,,1
+Sitamarhi,BELSAND,district/Sitamarhi/index.html,0,1,0,0,1,,1
+Sitamarhi,BOKHRA,district/Sitamarhi/index.html,0,5,1,0,4,,5
+Sitamarhi,CHORAUT,district/Sitamarhi/index.html,0,9,0,0,9,,0
+Sitamarhi,DUMRA,district/Sitamarhi/index.html,0,1,0,0,1,,0
+Sitamarhi,MAJORGANJ,district/Sitamarhi/index.html,0,0,0,0,0,,0
+Sitamarhi,NANPUR,district/Sitamarhi/index.html,0,1,0,0,1,,1
+Sitamarhi,PARIHAR,district/Sitamarhi/index.html,0,32,0,0,32,,28
+Sitamarhi,PARSAUNI,district/Sitamarhi/index.html,0,0,0,0,0,,0
+Sitamarhi,PUPRI,district/Sitamarhi/index.html,0,1,0,1,0,,1
+Sitamarhi,RIGA,district/Sitamarhi/index.html,0,6,0,0,6,,6
+Sitamarhi,RUNNISAIDPUR,district/Sitamarhi/index.html,0,5,0,0,5,,0
+Sitamarhi,SONBARSA,district/Sitamarhi/index.html,0,10,0,0,10,,0
+Sitamarhi,SUPPI,district/Sitamarhi/index.html,0,5,0,0,5,,0
+Sitamarhi,SURSAND,district/Sitamarhi/index.html,0,5,0,0,5,,0
+Sitamarhi,Unknown,district/Sitamarhi/index.html,0,94,2,144,0,,1
+Sitamarhi,Total,district/Sitamarhi/index.html,0,187,3,145,39,orange,44
+Siwan,ANDAR,district/Siwan/index.html,0,8,0,0,8,,3
+Siwan,BARHARIA,district/Siwan/index.html,0,22,0,2,20,,7
+Siwan,BASANTPUR,district/Siwan/index.html,0,79,0,0,79,,3
+Siwan,BHAGWANPUR,district/Siwan/index.html,1,4,0,0,4,,3
+Siwan,DARAULI,district/Siwan/index.html,4,13,0,1,12,,3
+Siwan,DURAUNDHA,district/Siwan/index.html,0,11,0,0,11,,0
+Siwan,GOREAKOTHI,district/Siwan/index.html,0,32,0,0,32,,3
+Siwan,GUTHANI,district/Siwan/index.html,0,2,0,0,2,,0
+Siwan,HASANPURA,district/Siwan/index.html,0,9,0,1,8,,1
+Siwan,HUSSAINGANJ,district/Siwan/index.html,0,2,0,0,2,,0
+Siwan,JEERADEI,district/Siwan/index.html,0,17,0,0,17,,0
+Siwan,LAKRI NABIGANJ,district/Siwan/index.html,0,4,0,0,4,,1
+Siwan,MAHARAJGANJ,district/Siwan/index.html,0,6,0,0,6,,0
+Siwan,MAIRWA,district/Siwan/index.html,0,5,0,0,5,,0
+Siwan,NAUTAN,district/Siwan/index.html,0,5,0,1,4,,3
+Siwan,PACHRUKHI,district/Siwan/index.html,0,18,0,1,17,,6
+Siwan,RAGHUNATHPUR,district/Siwan/index.html,0,35,0,18,17,,27
+Siwan,SISWAN,district/Siwan/index.html,0,4,0,0,4,,0
+Siwan,SIWAN,district/Siwan/index.html,0,10,0,0,10,,4
+Siwan,Unknown,district/Siwan/index.html,0,425,6,463,0,,9
+Siwan,Total,district/Siwan/index.html,5,711,6,487,218,orange,73
+Supaul,BASANTPUR,district/Supaul/index.html,3,16,0,0,16,,9
+Supaul,CHHATAPUR,district/Supaul/index.html,0,18,0,0,18,,2
+Supaul,KISHANPUR,district/Supaul/index.html,0,13,0,0,13,,0
+Supaul,MARAUNA,district/Supaul/index.html,0,21,0,0,21,,6
+Supaul,NIRMALI,district/Supaul/index.html,0,9,0,0,9,,3
+Supaul,PIPRA,district/Supaul/index.html,0,17,0,0,17,,5
+Supaul,PRATAPGANJ,district/Supaul/index.html,0,15,0,0,15,,3
+Supaul,RAGHOPUR,district/Supaul/index.html,0,33,0,0,33,,18
+Supaul,SARAIGARH,district/Supaul/index.html,0,11,0,0,11,,2
+Supaul,SUPAUL,district/Supaul/index.html,0,20,0,0,20,,6
+Supaul,TRIVENGANJ,district/Supaul/index.html,2,13,0,0,13,,7
+Supaul,Unknown,district/Supaul/index.html,0,184,0,309,0,,4
+Supaul,Total,district/Supaul/index.html,5,370,0,309,61,orange,65
+Vaishali,BHAGWANPUR,district/Vaishali/index.html,0,6,0,0,6,,1
+Vaishali,BIDUPUR,district/Vaishali/index.html,0,8,0,1,7,,2
+Vaishali,CHEHRAKALA,district/Vaishali/index.html,0,2,0,0,2,,1
+Vaishali,DESRI,district/Vaishali/index.html,0,2,1,1,0,,2
+Vaishali,GARAUL,district/Vaishali/index.html,3,9,0,0,9,,2
+Vaishali,HAJIPUR,district/Vaishali/index.html,1,15,0,0,15,,1
+Vaishali,JANDAHA,district/Vaishali/index.html,0,2,0,0,2,,1
+Vaishali,LALGANJ,district/Vaishali/index.html,0,9,0,0,9,,8
+Vaishali,MAHNAR,district/Vaishali/index.html,0,6,0,0,6,,1
+Vaishali,MAHUA,district/Vaishali/index.html,0,3,0,0,3,,3
+Vaishali,PATEDHI BELSAR,district/Vaishali/index.html,0,0,0,0,0,,0
+Vaishali,PATEPUR,district/Vaishali/index.html,0,3,0,0,3,,1
+Vaishali,RAGHOPUR,district/Vaishali/index.html,0,25,0,0,25,,25
+Vaishali,RAJAPAKAR,district/Vaishali/index.html,0,0,0,0,0,,0
+Vaishali,SAHDEI,district/Vaishali/index.html,0,2,0,0,2,,0
+Vaishali,VAISHALI,district/Vaishali/index.html,1,19,0,0,19,,10
+Vaishali,Unknown,district/Vaishali/index.html,0,271,3,251,0,,3
+Vaishali,Total,district/Vaishali/index.html,5,382,4,253,125,orange,61
+West Champaran,BAGAHA 1,district/West Champaran/index.html,0,1,0,0,1,,0
+West Champaran,BAGAHA 2,district/West Champaran/index.html,0,7,0,0,7,,0
+West Champaran,BAIRIYA,district/West Champaran/index.html,0,1,0,0,1,,0
+West Champaran,BETTIAH,district/West Champaran/index.html,0,8,0,0,8,,7
+West Champaran,BHITHA,district/West Champaran/index.html,0,0,0,0,0,,0
+West Champaran,CHANPATIA,district/West Champaran/index.html,0,10,0,0,10,,1
+West Champaran,GAUNAHA,district/West Champaran/index.html,0,1,0,0,1,,0
+West Champaran,JOGAPATTI,district/West Champaran/index.html,0,14,0,0,14,,14
+West Champaran,LAURIYA,district/West Champaran/index.html,0,4,0,0,4,,1
+West Champaran,MADHUBAN,district/West Champaran/index.html,0,0,0,0,0,,0
+West Champaran,MAINATAND,district/West Champaran/index.html,0,8,0,0,8,,0
+West Champaran,MAJHAULIA,district/West Champaran/index.html,0,7,0,0,7,,1
+West Champaran,NARKATIAGANJ,district/West Champaran/index.html,0,8,0,0,8,,2
+West Champaran,NAUTAN,district/West Champaran/index.html,0,14,0,0,14,,14
+West Champaran,PIPRASI,district/West Champaran/index.html,0,2,0,0,2,,2
+West Champaran,RAMNAGAR,district/West Champaran/index.html,0,5,0,0,5,,0
+West Champaran,SIKTA,district/West Champaran/index.html,0,6,0,0,6,,1
+West Champaran,THAKARAHA,district/West Champaran/index.html,0,1,0,0,1,,0
+West Champaran,Unknown,district/West Champaran/index.html,0,330,4,289,0,,0
+West Champaran,Total,district/West Champaran/index.html,0,427,4,289,134,orange,43
+Unknown,Total,index.html,0,0,0,0,0,,0
+Bihar,Total,index.html,143,17421,134,12364,4923,,3185
